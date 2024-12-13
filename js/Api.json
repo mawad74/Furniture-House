@@ -1,0 +1,408 @@
+
+{ 
+    "products": [
+        {
+            "id": 1,
+            "title": "Natural Leather Bed Sheets",
+            "description": "High-quality natural leather bed sheets with durable material and a luxurious feel.",
+            "category": "Bed",
+            "price": 250.00 ,
+            "img":"/img/Baaaaaaaaaaaaad/bad (1).png"
+            
+          },
+          {
+            "id": 2,
+            "title": "Premium Cotton Bed Sheets",
+            "description": "Soft and breathable 100% cotton bed sheets, perfect for a comfortable night's sleep.",
+            "category": "Bed",
+            "price": 200.00,
+            "img":"/img/Baaaaaaaaaaaaad/bad (2).png"
+
+          },
+          {
+            "id": 3,
+            "title": "Microfiber Bed Sheets",
+            "description": "Lightweight and stain-resistant microfiber bed sheets with easy maintenance.",
+            "category": "Bed",
+            "price": 180.00,
+            "img":"/img/Baaaaaaaaaaaaad/bad (3).png"
+
+          },
+          {
+            "id": 4,
+            "title": "Elegant Linen Bed Sheets",
+            "description": "Classic linen bed sheets with natural tones, offering a modern and stylish touch.",
+            "category": "Bed",
+            "price": 230.00,
+            "img":"/img/Baaaaaaaaaaaaad/bad (4).png"
+
+          },
+          {
+            "id": 5,
+            "title": "Luxury Silk Bed Sheets",
+            "description": "Premium silk bed sheets providing an elegant look and unparalleled comfort.",
+            "category": "Bed",
+            "price": 300.00,
+            "img":"/img/Baaaaaaaaaaaaad/bad (5).png"
+
+          },
+          {
+            "id": 6,
+            "title": "3D Printed Bed Sheets",
+            "description": "Vivid 3D printed bed sheets with long-lasting colors and attractive designs.",
+            "category": "Bed",
+            "price": 220.00,
+            "img":"/img/Baaaaaaaaaaaaad/bad (6).png"
+
+          },
+
+        
+          {
+            "id": 7,
+            "title": "Ergonomic Office Chair",
+            "description": "Comfortable office chair with ergonomic design, adjustable height, and lumbar support.",
+            "category": "Chair",
+            "price": 350.00,
+            "img":"/img/Chairrrrrrrrrrrrr/chair (1).png"
+          },
+          {
+            "id": 8,
+            "title": "Modern Dining Chair",
+            "description": "Stylish dining chair with a wooden frame and cushioned seat, perfect for modern dining rooms.",
+            "category": "Chair",
+            "price": 150.00,
+            "img":"/img/Chairrrrrrrrrrrrr/chair (2).png"
+
+          },
+          {
+            "id": 9,
+            "title": "Luxury Leather Chair",
+            "description": "High-end leather chair with a sleek design, ideal for offices and executive rooms.",
+            "category": "Chair",
+            "price": 500.00,
+            "img":"/img/Chairrrrrrrrrrrrr/chair (3).png"
+
+          },
+          {
+            "id": 10,
+            "title": "Foldable Camping Chair",
+            "description": "Lightweight and portable camping chair with durable fabric and a sturdy frame.",
+            "category": "Chair",
+            "price": 120.00,
+            "img":"/img/Chairrrrrrrrrrrrr/chair (4).png"
+
+          },
+          {
+            "id": 11,
+            "title": "Classic Wooden Rocking Chair",
+            "description": "Elegant rocking chair made of high-quality wood, providing comfort and timeless charm.",
+            "category": "Chair",
+            "price": 400.00,
+            "img":"/img/Chairrrrrrrrrrrrr/chair (5).png"
+
+          },
+          {
+            "id": 12,
+            "title": "Velvet Accent Chair",
+            "description": "Luxurious velvet accent chair with a tufted backrest, perfect for living rooms and bedrooms.",
+            "category": "Chair",
+            "price": 300.00,
+            "img":"/img/Chairrrrrrrrrrrrr/chair (6).png"
+
+          },
+          {
+            "id": 13,
+            "title": "Minimalist Plastic Chair",
+            "description": "Durable and lightweight plastic chair with a minimalist design, suitable for indoor and outdoor use.",
+            "category": "Chair",
+            "price": 80.00,
+            "img":"/img/Chairrrrrrrrrrrrr/chair (7).png"
+
+          },
+          {
+            "id": 14,
+            "title": "Recliner Lounge Chair",
+            "description": "Comfortable recliner chair with adjustable positions and a soft cushioned seat, perfect for relaxation.",
+            "category": "Chair",
+            "price": 600.00,
+            "img":"/img/Chairrrrrrrrrrrrr/chair (8).png"
+
+          },
+          {
+            "id": 15,
+            "title": "Modern Wall Art",
+            "description": "Abstract modern wall art piece with vibrant colors, perfect for adding personality to your space.",
+            "category": "Decor",
+            "price": 120.00,
+            "img":"/img/Decooooooooooooor/decor (1).png"
+
+          },
+          {
+            "id": 16,
+            "title": "Decorative Table Vase",
+            "description": "Elegant ceramic vase with a minimalistic design, ideal for enhancing living room or office decor.",
+            "category": "Decor",
+            "price": 80.00,
+            "img":"/img/Decooooooooooooor/decor (2).png"
+
+          },
+          {
+            "id": 17,
+            "title": "LED String Lights",
+            "description": "Warm LED string lights for creating a cozy ambiance in bedrooms, balconies, or events.",
+            "category": "Decor",
+            "price": 50.00,
+            "img":"/img/Decooooooooooooor/decor (3).png"
+
+          },
+          {
+            "id": 18,
+            "title": "Handwoven Area Rug",
+            "description": "Stylish handwoven area rug with intricate patterns, adding a touch of luxury to any room.",
+            "category": "Decor",
+            "price": 250.00,
+            "img":"/img/Decooooooooooooor/decor (4).png"
+
+          },
+          {
+            "id": 19,
+            "title": "Decorative Wall Mirror",
+            "description": "Round decorative mirror with a golden metal frame, perfect for enhancing the light and space in your room.",
+            "category": "Decor",
+            "price": 200.00,
+            "img":"/img/Decooooooooooooor/decor (5).png"
+
+          },
+          {
+            "id": 20,
+            "title": "Indoor Plant Stand",
+            "description": "Wooden plant stand with a sleek design, perfect for showcasing indoor plants and elevating your decor.",
+            "category": "Decor",
+            "price": 90.00,
+            "img":"/img/Decooooooooooooor/decor (6).png"
+          },
+          {
+            "id": 21,
+            "title": "Modern Sliding Door Wardrobe",
+            "description": "Spacious wardrobe with sliding doors and a sleek modern design, ideal for organizing clothes and accessories.",
+            "category": "Wardrobe",
+            "price": 700.00,
+            "img":"/img/dolaaaaaaaaap/dolap (1).png"
+          },
+          {
+            "id": 22,
+            "title": "Classic Wooden Wardrobe",
+            "description": "Elegant wooden wardrobe with a timeless design, featuring multiple compartments for efficient storage.",
+            "category": "Wardrobe",
+            "price": 850.00,
+            "img":"/img/dolaaaaaaaaap/dolap (2).png"
+
+          },
+          {
+            "id": 23,
+            "title": "Compact Mirrored Wardrobe",
+            "description": "Space-saving wardrobe with a built-in mirror, perfect for small bedrooms or apartments.",
+            "category": "Wardrobe",
+            "price": 600.00,
+            "img":"/img/dolaaaaaaaaap/dolap (3).png"
+
+          },
+          {
+            "id": 24,
+            "title": "Luxury Walk-in Closet",
+            "description": "High-end walk-in wardrobe with customizable shelving and drawers for a premium storage experience.",
+            "category": "Wardrobe",
+            "price": 1200.00,
+            "img":"/img/dolaaaaaaaaap/dolap (4).png"
+
+          },
+          {
+            "id": 25,
+            "title": "Two-Door Wardrobe with Drawers",
+            "description": "Simple and functional two-door wardrobe featuring additional drawers for versatile storage.",
+            "category": "Wardrobe",
+            "price": 500.00,
+            "img":"/img/dolaaaaaaaaap/dolap (5).png"
+
+          },
+          {
+            "id": 26,
+            "title": "Children's Colorful Wardrobe",
+            "description": "Vibrant wardrobe designed for children, with colorful patterns and easy-access compartments.",
+            "category": "Wardrobe",
+            "price": 400.00,
+            "img":"/img/dolaaaaaaaaap/dolap (6).png"
+
+          },
+          {
+            "id": 27,
+            "title": "Metal Frame Industrial Wardrobe",
+            "description": "Stylish industrial wardrobe with a metal frame and wooden shelves, perfect for modern interiors.",
+            "category": "Wardrobe",
+            "price": 650.00,
+            "img":"/img/dolaaaaaaaaap/dolap (7).png"
+
+          },
+          {
+            "id": 28,
+            "title": "Luxury Velvet Sofa",
+            "description": "A luxurious velvet sofa with a tufted design, providing comfort and elegance for your living room.",
+            "category": "Sofa",
+            "price": 900.00,
+            "img":"/img/sofessssss/sofe (1).png"
+          },
+          {
+            "id": 29,
+            "title": "Modern L-Shaped Sofa",
+            "description": "A spacious L-shaped sofa with a sleek design, perfect for large living rooms and family gatherings.",
+            "category": "Sofa",
+            "price": 1200.00,
+            "img":"/img/sofessssss/sofe (2).png"
+
+          },
+          {
+            "id": 30,
+            "title": "Compact Two-Seater Sofa",
+            "description": "A cozy two-seater sofa with a minimalistic design, ideal for small apartments or office spaces.",
+            "category": "Sofa",
+            "price": 600.00,
+            "img":"/img/sofessssss/sofe (3).png"
+
+          },
+          {
+            "id": 31,
+            "title": "Convertible Sofa Bed",
+            "description": "A versatile sofa bed that easily transforms into a comfortable sleeping space, perfect for guests.",
+            "category": "Sofa",
+            "price": 850.00,
+            "img":"/img/sofessssss/sofe (4).png"
+
+          },
+          {
+            "id": 32,
+            "title": "Classic Leather Sofa",
+            "description": "A timeless leather sofa with a durable build and an elegant finish, suitable for any interior style.",
+            "category": "Sofa",
+            "price": 1100.00,
+            "img":"/img/sofessssss/sofe (5).png"
+
+          },
+          {
+            "id": 33,
+            "title": "Recliner Sectional Sofa",
+            "description": "A sectional sofa with built-in recliners, offering ultimate relaxation and premium seating comfort.",
+            "category": "Sofa",
+            "price": 1400.00,
+            "img":"/img/sofessssss/sofe (6).png"
+
+          },
+          {
+            "id": 34,
+            "title": "Scandinavian Style Sofa",
+            "description": "A chic Scandinavian-style sofa with clean lines and neutral tones, ideal for modern homes.",
+            "category": "Sofa",
+            "price": 700.00,
+            "img":"/img/sofessssss/sofe (7).png"
+
+          },
+          {
+            "id": 35,
+            "title": "Outdoor Rattan Sofa",
+            "description": "A durable rattan sofa designed for outdoor use, with weather-resistant cushions and a sleek look.",
+            "category": "Sofa",
+            "price": 750.00,
+            "img":"/img/sofessssss/sofe (8).png"
+
+          },
+          {
+            "id": 36,
+            "title": "Fabric Corner Sofa",
+            "description": "A stylish corner sofa with soft fabric upholstery, offering ample seating for family and friends.",
+            "category": "Sofa",
+            "price": 950.00,
+            "img":"/img/sofessssss/sofe (9).png"
+
+          },
+          {
+            "id": 37,
+            "title": "Luxury Modular Sofa",
+            "description": "A customizable modular sofa with interchangeable pieces, perfect for creating your ideal seating arrangement.",
+            "category": "Sofa",
+            "price": 1300.00,
+            "img":"/img/sofessssss/sofe (10).png"
+
+          },
+          {
+            "id": 38,
+            "title": "Elegant Ceramic Flower Vase",
+            "description": "A beautifully crafted ceramic vase designed to hold fresh flowers, adding a touch of elegance to any room.",
+            "category": "Vase",
+            "price": 150.00,
+            "img":"/img/Vasaaaaaaaa/vasa (1).png"
+          },
+          {
+            "id": 39,
+            "title": "Glass Vase with Gold Accents",
+            "description": "A stylish glass vase with gold accents, perfect for displaying artificial or real flowers in your home.",
+            "category": "Vase",
+            "price": 120.00,
+            "img":"/img/Vasaaaaaaaa/vasa (2).png"
+
+          },
+          {
+            "id": 40,
+            "title": "Modern Geometric Flower Vase",
+            "description": "A trendy geometric-shaped vase, ideal for holding flowers or as a decorative centerpiece.",
+            "category": "Vase",
+            "price": 100.00,
+            "img":"/img/Vasaaaaaaaa/vasa (3).png"
+
+          },
+          {
+            "id": 41,
+            "title": "Tall Stainless Steel Vase",
+            "description": "A sleek, tall stainless steel vase designed for modern interiors, perfect for long-stemmed flowers.",
+            "category": "Vase",
+            "price": 180.00,
+            "img":"/img/Vasaaaaaaaa/vasa (4).png"
+
+          },
+          {
+            "id": 42,
+            "title": "Rustic Wooden Vase with Flowers",
+            "description": "A rustic wooden vase that brings a natural, earthy feel to your home, complete with artificial flowers.",
+            "category": "Vase",
+            "price": 90.00,
+            "img":"/img/Vasaaaaaaaa/vasa (5).png"
+
+          },
+          {
+            "id": 43,
+            "title": "Marble Effect Decorative Vase",
+            "description": "A luxurious vase with a marble effect design, perfect for holding flowers or as a decorative accent.",
+            "category": "Vase",
+            "price": 200.00,
+            "img":"/img/Vasaaaaaaaa/vasa (6).png"
+
+          },
+          {
+            "id": 44,
+            "title": "Vintage Floral Vase",
+            "description": "A vintage-inspired vase with intricate floral patterns, ideal for adding charm and sophistication to your space.",
+            "category": "Vase",
+            "price": 160.00,
+            "img":"/img/Vasaaaaaaaa/vasa (7).png"
+
+          },
+          {
+            "id": 45,
+            "title": "Unique Hand-Painted Vase",
+            "description": "A one-of-a-kind hand-painted vase, perfect for displaying fresh flowers or as an eye-catching piece of decor.",
+            "category": "Vase",
+            "price": 130.00,
+            "img":"/img/Vasaaaaaaaa/vasa (8).png"
+
+          }
+
+    ]
+}
